@@ -4,6 +4,33 @@ import allure
 from pydantic import BaseModel, ValidationError
 from requests import Response
 
+import allure
+import json
+
+
+def attach_response_to_allure(response):
+    """
+    Прикрепляет к Allure тело ответа и URL запроса
+
+    :param response: Response
+    """
+    allure.attach(
+        response.url,
+        name="Request URL",
+        attachment_type=allure.attachment_type.URI_LIST,
+    )
+    try:
+        body = json.dumps(response.json(), indent=2)
+        allure.attach(
+            body, name="Response Body", attachment_type=allure.attachment_type.JSON
+        )
+    except Exception:
+        allure.attach(
+            response.text,
+            name="Response Text",
+            attachment_type=allure.attachment_type.TEXT,
+        )
+
 
 def assert_schema(response, model: Type[BaseModel]):
     """
@@ -48,6 +75,9 @@ def assert_status_code(response: Response, expected_code):
     :param expected_code: ожидаемый код ответа
     :raises AssertionError: если значения не совпали
     """
+    if expected_code != response.status_code:
+        attach_response_to_allure(response)
+
     assert expected_code == response.status_code, (
         f"Ожидался {expected_code} статус-код, но в ответе {response.status_code}",
         f"{response.url}",
