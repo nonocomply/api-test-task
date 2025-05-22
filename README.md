@@ -15,7 +15,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/your-username/bnovo-api-tests.git
+git clone https://github.com/nonocomply/api-test-task.git
 cd bnovo-api-tests
 ```
 2. Создайте и активируйте виртуальное окружение:
