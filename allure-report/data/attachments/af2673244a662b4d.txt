@@ -1,0 +1,538 @@
+179 validation errors for RoomsModel
+rooms.0.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.0.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.0.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.1.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.1.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.1.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.1.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.1.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.2.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.2.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.2.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.2.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.2.description
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/string_type
+rooms.3.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.3.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.3.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.3.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.3.description
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/string_type
+rooms.4.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.4.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.4.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.4.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.4.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.4.extra_array.people.main_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='1', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.4.extra_array.people.extra_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='1', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.4.extra_array.people.max_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.4.extra_array.people.min_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='1', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.5.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.5.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.5.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.5.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.5.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.6.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.6.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.6.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.6.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.6.extra_array.people.main_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.6.extra_array.people.extra_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.6.extra_array.people.max_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='4', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.6.extra_array.people.min_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.7.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.7.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.7.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.7.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.7.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.8.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.8.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.8.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.8.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.8.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.9.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.9.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.9.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.9.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.9.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.10.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.10.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.10.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.10.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.10.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.10.extra_array.people.main_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.10.extra_array.people.extra_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.10.extra_array.people.max_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='4', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.10.extra_array.people.min_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.11.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.11.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.11.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.11.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.11.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.11.extra_array.people.main_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.11.extra_array.people.extra_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='1', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.11.extra_array.people.max_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='3', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.11.extra_array.people.min_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='1', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.12.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.12.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.12.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.12.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.12.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.13.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.13.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.13.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.13.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.13.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.13.extra_array.people.main_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.13.extra_array.people.extra_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.13.extra_array.people.max_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='4', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.13.extra_array.people.min_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.14.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.14.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.14.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.14.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.14.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.14.extra_array.people.main_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.14.extra_array.people.extra_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.14.extra_array.people.max_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='4', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.14.extra_array.people.min_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='1', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.15.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.15.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.15.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.15.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.15.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.16.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.16.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.16.extra_array.people.main_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='4', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.16.extra_array.people.extra_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='1', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.16.extra_array.people.max_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='5', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.16.extra_array.people.min_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='1', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.17.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.17.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.17.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.17.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.17.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.18.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.18.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.18.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.18.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.18.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.19.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.19.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.19.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.19.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.19.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.20.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.20.extra_array.people.main_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='1', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.20.extra_array.people.extra_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.20.extra_array.people.max_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='3', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.20.extra_array.people.min_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='1', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.21.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.21.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.21.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.21.extra_array.people.main_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='3', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.21.extra_array.people.extra_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.21.extra_array.people.max_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='5', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.21.extra_array.people.min_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='1', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.22.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.22.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.22.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.22.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.22.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.23.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.23.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.23.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.23.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.23.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.24.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.24.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.24.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.25.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.25.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.25.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.25.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.25.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.26.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.26.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.26.extra_array.people.main_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.26.extra_array.people.extra_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.26.extra_array.people.max_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='4', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.26.extra_array.people.min_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='1', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.27.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.27.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.27.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.27.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.27.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.28.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.28.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.28.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.28.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.29.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.29.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.29.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.30.name_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.30.name_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.30.description_ru
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.30.description_en
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.30.description
+  Value error, Пустое поле [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.30.extra_array.people.main_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.30.extra_array.people.extra_beds
+  Value error, Значение должно быть числом [type=value_error, input_value='1', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.30.extra_array.people.max_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='3', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+rooms.30.extra_array.people.min_adults
+  Value error, Значение должно быть числом [type=value_error, input_value='1', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
