@@ -129,7 +129,7 @@ class TestRoomTypes:
         ],
     )
     @allure.story("Локализация категорий по Accept-Language")
-    @allure.severity(allure.severity_level.CRITICAL)
+    @allure.severity(allure.severity_level.NORMAL)
     def test_localization_room_types(self, lang, expected_field):
         headers = {"Accept-Language": lang}
         with allure.step("Отправить запрос на получение данных о категориях номеров"):

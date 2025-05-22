@@ -17,13 +17,15 @@ class TestAccounts:
     def setup(self):
         self.api = HotelsAPI()
 
+    @pytest.fixture
+    def valid_uid(self):
+        return "d7494710-8c8c-4c4c-bba4-f71caf96fece"
+
     @allure.story("Получение мета-информации об отеле по корректному UID")
     @allure.severity(allure.severity_level.CRITICAL)
-    def test_get_account_valid_uid(self):
+    def test_get_account_valid_uid(self, valid_uid):
         with allure.step("Отправить запрос на получение мета-информации об отеле"):
-            response = self.api.get_account_meta_info(
-                uid="d7494710-8c8c-4c4c-bba4-f71caf96fece"
-            )
+            response = self.api.get_account_meta_info(uid=valid_uid)
         with allure.step("Проверка статус кода ответа"):
             assert_status_code(response, 200)
         with allure.step("Валидация полей модели ответа"):

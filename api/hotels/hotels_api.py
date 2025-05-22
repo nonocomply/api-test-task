@@ -8,7 +8,8 @@ from api.hotels.endpoints import Endpoints
 
 
 class HotelsAPI(BaseAPI):
-    def __init__(self):
+    def __init__(self, token: str = None):
+        super().__init__(token)
         self.endpoints = Endpoints()
 
     def get_account_meta_info(self, uid: str) -> Response:
@@ -69,5 +70,4 @@ class HotelsAPI(BaseAPI):
 
 if __name__ == "__main__":
     api = HotelsAPI()
-    response = api.get_meta_info(uid="d7494710-8c8c-4c4c-bba4-f71caf96fece")
-    pprint.pprint(response.json())
+    response = api.get_account_meta_info(uid="d7494710-8c8c-4c4c-bba4-f71caf96fece")
